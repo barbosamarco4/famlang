@@ -1,0 +1,15 @@
+.ginignore
+debug.txt
+famTree
+famTree.tab.c
+famTree.tab.h
+famTree.yy.c
+lex.yy.c
+newstuff.c
+relatorio.aux
+relatorio.log
+relatorio.pdf
+relatorio.tex
+relatorio.toc
+testar.txt
+testeC.txt
